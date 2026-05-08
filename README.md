@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hey, I'm Savio Titus 👋
 
-<!--
-**Zavioo/Zavioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Developer | Creative Designer | Content Creator
 
-Here are some ideas to get you started:
+I'm passionate about building modern web experiences, creating cinematic content, and exploring new technologies.  
+Currently focused on improving my skills in **Backend Development**, **Web Technologies**, and **Creative Design**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+### 💻 Development
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- Git & GitHub
+
+### 🎨 Creative
+- Graphic Design
+- Social Media Design
+- Cinematic Editing
+- AI Content Creation
+
+---
+
+## 🌱 Currently Learning
+- Backend Development
+- APIs & Databases
+- System Design Basics
+- Modern Web Development Trends
+
+---
+
+## 📌 Goals for 2026
+- Land a developer role
+- Build impactful projects
+- Grow as a full-stack developer
+- Create content around tech & creativity
+
+---
+
+## 📫 Connect With Me
+- GitHub: your-github-link
+- LinkedIn: your-linkedin
+- Instagram: your-instagram
+
+---
+
+> “Build. Learn. Create. Repeat.”
